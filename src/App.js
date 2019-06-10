@@ -7,7 +7,8 @@ import './App.css';
 // import ComPosition from './components/ComPosition.js';
 // import HOC from './components/HOC.js';
 // import HOCdor from './components/HOCdor.js';
-import ContextSample from './components/Context.js';
+// import ContextSample from './components/Context.js';
+import KFormSample from './components/KFormSample.js';
 
 function App() {
   return (
@@ -17,8 +18,8 @@ function App() {
       {/* <CommentList></CommentList> */}
       {/* <ComPosition > </ComPosition> */}
       {/* <HOCdor stage = 'REACT' > </HOCdor> */}
-      <ContextSample></ContextSample>
-
+      {/* <ContextSample></ContextSample> */}
+    < KFormSample></KFormSample>
 
       {/* <Button>提交</Button>
       <header className="App-header">
