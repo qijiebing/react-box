@@ -100,3 +100,10 @@ Provider在外层组建 内部需要数据的 就用Consumer来读取
  <FormProvider value={store}>
     <Comp >  //子组件获取store.xxx
  </FormProvider>
+
+
+ npm install redux --save
+
+ Store 
+ Reducer
+ Action
